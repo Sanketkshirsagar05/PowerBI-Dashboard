@@ -1,0 +1,6 @@
+supplier_id,supplier_key,supplier_name,country,city,specialty,tier,avg_quality_score
+1,SUP-001,Shenzhen Tech,China,Shenzhen,Components,Tier 1,95
+2,SUP-002,MediaTek,Taiwan,Taipei,Chipset,Tier 1,97
+3,SUP-003,Display Tech,South Korea,Seoul,Display,Tier 1,96
+4,SUP-004,Battery Hub,India,Delhi,Battery,Tier 2,92
+5,SUP-005,ChipCore,China,Shenzhen,Processor,Tier 1,94
