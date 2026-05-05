@@ -1,0 +1,61 @@
+customer_id,customer_key,customer_name,country,channel_type,size,annual_volume_usd
+1,CUST-CL-RET-001,Chile Retail Group,CL,Direct,Medium,792846414
+2,CUST-US-WMT-002,Walmart,US,Direct,Large,428734972
+3,CUST-MX-DST-003,Mexico Distribuidor,MX,Distributor,Medium,674991378
+4,CUST-CL-RET-004,Chile Retail Group,CL,Distributor,Medium,503972759
+5,CUST-MX-DST-005,Mexico Distribuidor,MX,Direct,Medium,618608295
+6,CUST-US-DIR-006,BLU Direct Store,US,Distributor,Small,93409749
+7,CUST-MX-DST-007,Mexico Distribuidor,MX,Retail,Medium,359088427
+8,CUST-BR-DST-008,Brazil Distribuidor,BR,Retail,Medium,8344769
+9,CUST-US-DIR-009,BLU Direct Store,US,Direct,Small,792716372
+10,CUST-US-AMZ-010,Amazon US,US,Direct,Large,484546681
+11,CUST-BR-DST-011,Brazil Distribuidor,BR,Online,Medium,786447915
+12,CUST-US-AMZ-012,Amazon US,US,Online,Large,111406362
+13,CUST-US-WMT-013,Walmart,US,Distributor,Large,604121577
+14,CUST-US-DIR-014,BLU Direct Store,US,Direct,Small,504770319
+15,CUST-CL-RET-015,Chile Retail Group,CL,Retail,Medium,394151677
+16,CUST-CL-RET-016,Chile Retail Group,CL,Retail,Medium,573919915
+17,CUST-CL-RET-017,Chile Retail Group,CL,Direct,Medium,401917567
+18,CUST-US-AMZ-018,Amazon US,US,Distributor,Large,477190436
+19,CUST-US-WMT-019,Walmart,US,Distributor,Large,737395540
+20,CUST-US-AMZ-020,Amazon US,US,Distributor,Large,61972561
+21,CUST-US-TGT-021,Target,US,Online,Large,276820813
+22,CUST-US-BBY-022,Best Buy,US,Retail,Large,239564360
+23,CUST-US-BBY-023,Best Buy,US,Online,Large,796274835
+24,CUST-US-TGT-024,Target,US,Distributor,Large,792110843
+25,CUST-CL-RET-025,Chile Retail Group,CL,Direct,Medium,362319431
+26,CUST-CL-RET-026,Chile Retail Group,CL,Distributor,Medium,689275917
+27,CUST-US-AMZ-027,Amazon US,US,Direct,Large,787698033
+28,CUST-US-DIR-028,BLU Direct Store,US,Direct,Small,270047041
+29,CUST-BR-DST-029,Brazil Distribuidor,BR,Retail,Medium,205619113
+30,CUST-US-TGT-030,Target,US,Retail,Large,139489564
+31,CUST-CL-RET-031,Chile Retail Group,CL,Retail,Medium,112944665
+32,CUST-US-TGT-032,Target,US,Retail,Large,628415497
+33,CUST-BR-DST-033,Brazil Distribuidor,BR,Direct,Medium,425477197
+34,CUST-CL-RET-034,Chile Retail Group,CL,Direct,Medium,333740110
+35,CUST-US-DIR-035,BLU Direct Store,US,Retail,Small,94482491
+36,CUST-US-AMZ-036,Amazon US,US,Retail,Large,328541287
+37,CUST-MX-DST-037,Mexico Distribuidor,MX,Direct,Medium,96693393
+38,CUST-CL-RET-038,Chile Retail Group,CL,Online,Medium,377593431
+39,CUST-US-BBY-039,Best Buy,US,Online,Large,137862715
+40,CUST-US-TGT-040,Target,US,Direct,Large,116665644
+41,CUST-US-AMZ-041,Amazon US,US,Online,Large,229184334
+42,CUST-MX-DST-042,Mexico Distribuidor,MX,Online,Medium,72157848
+43,CUST-CL-RET-043,Chile Retail Group,CL,Online,Medium,100540567
+44,CUST-US-AMZ-044,Amazon US,US,Direct,Large,191780295
+45,CUST-US-DIR-045,BLU Direct Store,US,Distributor,Small,286154698
+46,CUST-US-WMT-046,Walmart,US,Online,Large,177552610
+47,CUST-US-AMZ-047,Amazon US,US,Distributor,Large,323019332
+48,CUST-US-BBY-048,Best Buy,US,Distributor,Large,653870905
+49,CUST-US-AMZ-049,Amazon US,US,Direct,Large,490775494
+50,CUST-US-AMZ-050,Amazon US,US,Direct,Large,352454369
+51,CUST-US-AMZ-051,Amazon US,US,Direct,Large,523910454
+52,CUST-CL-RET-052,Chile Retail Group,CL,Retail,Medium,327909911
+53,CUST-MX-DST-053,Mexico Distribuidor,MX,Distributor,Medium,397121003
+54,CUST-US-DIR-054,BLU Direct Store,US,Retail,Small,594324250
+55,CUST-US-WMT-055,Walmart,US,Online,Large,575916578
+56,CUST-MX-DST-056,Mexico Distribuidor,MX,Distributor,Medium,429831618
+57,CUST-US-AMZ-057,Amazon US,US,Online,Large,268183577
+58,CUST-CL-RET-058,Chile Retail Group,CL,Distributor,Medium,31063245
+59,CUST-CL-RET-059,Chile Retail Group,CL,Distributor,Medium,102636744
+60,CUST-CL-RET-060,Chile Retail Group,CL,Distributor,Medium,481272473
